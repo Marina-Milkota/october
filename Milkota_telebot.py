@@ -1,7 +1,3 @@
-# 5490345803:AAEKIRyTkE5SqOsQtU9nWUyXPbgBOJFgb8Q
-#Training Bot - name
-#milkota_bot - username for your bot
-
 # Продолжить разработку телеграмм бота. Добавить опции:
 # -'Хочу гулять'
 # -'Хочу спать'
